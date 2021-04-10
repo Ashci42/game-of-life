@@ -1,0 +1,1 @@
+Run `deno run src/main.ts -h` to get started.
